@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+I'm Neka and I love long walks on the beach ⛱️, dancing in the rain 🌧️ and all the other cheesy romantic 💖 stuff you can think of in every 80's 🎵 song ever.
 
-- 🔭 I’m currently working on ... finishing up my backend training with Node.js, MongoDB and Angular and starting Application Development Training with Flutter.
+🌱 I’m currently finishing up my training on Node.js, MongoDB, Angular  and starting to learning Flutter!
 
 <!--
 **istoga/istoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
